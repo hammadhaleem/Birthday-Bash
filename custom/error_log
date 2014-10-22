@@ -1,0 +1,3 @@
+[30-Nov-2011 07:03:59] CSRF state token does not match one provided.
+[04-Dec-2011 03:18:07] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'root'@'localhost' (using password: NO) in /home/jmifetco/engineerinme.com/apps/bash/custom/index1.php on line 6
+[04-Dec-2011 03:18:16] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'root'@'localhost' (using password: NO) in /home/jmifetco/engineerinme.com/apps/bash/custom/index1.php on line 6
